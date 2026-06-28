@@ -3,4 +3,5 @@
 Project để thực hành git và GitHub
 
 * Toi sua them dong nay
+* Toi sưa tiep để kiểm tra xem git
 
